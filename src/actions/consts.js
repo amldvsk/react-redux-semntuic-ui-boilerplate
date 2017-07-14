@@ -1,0 +1,6 @@
+export const LOGIN_POPUP_VISIBLE = 'LOGIN_STATE';
+export const IS_LOGGED_IN = 'IS_LOGGED_IN';
+export const LOGOUT = 'LOGOUT';
+export const IS_ROOT = 'IS_ROOT';
+export const TASK_CHOOSEN_POPUP = 'TASK_CHOOSEN_POPUP';
+export const NOTIFICATIONS_UNSEEN = 'NOTIFICATIONS_UNSEEN';
